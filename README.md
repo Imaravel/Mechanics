@@ -114,14 +114,3 @@ Algunas direcciones naturales para seguir trabajando:
 - F. P. Bretherton, *A note on Hamilton's principle for perfect fluids*,
   J. Fluid Mech. **44**, 19 (1970).
 
-## Cita sugerida
-
-Si este código le resulta útil para un trabajo académico, una cita posible es:
-
-    Autor, "gauge-fluid-helicity: numerical verification of vortex
-    linking helicity", 2026. Trabajo de curso, Universidad de los Andes.
-    https://github.com/usuario/gauge-fluid-helicity
-
-## Licencia
-
-MIT.
