@@ -19,7 +19,7 @@ $$
 llamada **helicidad**, es entonces el análogo hidrodinámico del término
 topológico de Chern--Simons. Moffatt (1969) demostró que mide el enlace y
 anudamiento de las líneas de vorticidad: para $N$ filamentos cerrados de
-circulaciones $\gamma_i$ y números de enlace $\mathrm{Lk}(i,j)$,
+circulaciones $\gamma_i$ y números de enlace $\mathrm{Lk}(i,j)$
 
 $$
 \mathcal{H} \;=\; 2\sum_{i<j}\gamma_i\gamma_j\,\mathrm{Lk}(i,j).
